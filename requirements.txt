@@ -25,6 +25,6 @@ setuptools==41.2.0
 six==1.14.0
 telebot==0.0.3
 tornado==6.0.4
-urllib3==1.25.9
+urllib3==1.26.5
 websockets==8.1
 yarl==1.4.2
